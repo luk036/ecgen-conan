@@ -1,0 +1,38 @@
+{
+ "options": [
+  [
+   "andreasbuhr-cppcoro:fPIC",
+   "True"
+  ],
+  [
+   "andreasbuhr-cppcoro:shared",
+   "False"
+  ],
+  [
+   "fmt:fPIC",
+   "True"
+  ],
+  [
+   "fmt:header_only",
+   "False"
+  ],
+  [
+   "fmt:shared",
+   "False"
+  ],
+  [
+   "fmt:with_fmt_alias",
+   "False"
+  ],
+  [
+   "fmt:with_os_api",
+   "True"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": null,
+  "channel": null
+ }
+}
